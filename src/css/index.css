@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "Dom";
+    src: url('../fonts/dom.ttf') format('truetype');
+  }
+  
+  body{
+    background: green;
+    font-family: 'Dom';
+    font-size: 40px;
+  }
